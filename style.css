@@ -5,9 +5,12 @@
 	padding: 0;
 }
 :root {
-	--bg: #c7cad1;
+	/* --bg: #17181c; */
+	background: url(https://source.unsplash.com/1600x900/?ipad,calculater);
+	/* --bg:rgb(31, 31, 73); */
 	--fg: #17181c;
-	--calcBg: #e3e4e8;
+	/* --calcBg: #e3e4e8; */
+	--calcbg:rgba(255, 255, 255, 0.2);
 	--fg: #17181c;
 	--logoBlue: #255ff4;
 	--transDur: 0.05s;
